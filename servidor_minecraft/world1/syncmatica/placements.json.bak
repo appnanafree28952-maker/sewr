@@ -1,0 +1,26 @@
+{
+  "placements": [
+    {
+      "id": "4f6dc994-f900-4c1e-8ec3-e73b1b7feaf8",
+      "file_name": "C:\\Users\\S4S0R1\\AppData\\Roaming\\.minecraft\\schematics\\Granja de madera 20k h.litematic",
+      "display_name": "Granja de madera 20k h",
+      "hash": "9977365d-21df-395c-9ff8-6f1de3ccaedc",
+      "origin": {
+        "position": [
+          -151,
+          70,
+          60
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "CLOCKWISE_90",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "e7f6c9a9-1f39-346f-baf0-6fcf7b344483",
+        "name": "S4R1_ETHN"
+      },
+      "litematicVersion": 7,
+      "dataVersion": 3955
+    }
+  ]
+}
