@@ -1,0 +1,26 @@
+{
+  "placements": [
+    {
+      "id": "3f83e92a-8c9a-4607-89d3-cffaf9bd1397",
+      "file_name": "C:\\Users\\S4S0R1\\AppData\\Roaming\\.minecraft\\schematics\\Granja Polvora + XP.litematic",
+      "display_name": "Granja Polvora + XP",
+      "hash": "e3336655-550a-30d1-a08e-88871122c84c",
+      "origin": {
+        "position": [
+          -2525,
+          160,
+          165
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "NONE",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "e7f6c9a9-1f39-346f-baf0-6fcf7b344483",
+        "name": "S4R1_ETHN"
+      },
+      "litematicVersion": 7,
+      "dataVersion": 3955
+    }
+  ]
+}
